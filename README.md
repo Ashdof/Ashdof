@@ -1,23 +1,52 @@
-<h1 align="center">Hello 👋, I'm Emmanuel</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/emmanuel-amoaful-enchill/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/amoaful_enchill">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<h1 align="center">
+  Hello
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
+  I'm Emmanuel
+</h1>
 
-- 😀 I'm a passionate software engineer from Ghana. I have a preference for backend development.
+---
 
-- 🌱 I’m currently in training at **ALX**
+### :man_technologist: About Me :
 
-- 👯 I’m looking to collaborate on any awesome thing
+- :grinning: I am a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
 
-- 🤔 I’m looking for help with low level programming stuff
+- :star_struck: I have a strong preference for **backend development**.
 
--  ⚡ Fun fact: I am an AI enthusiast
+- :seedling: I’m currently in training at **ALX**
 
-- 📫 How to reach me: [Email me](mzigah4@gmail.com)
+- :thinking: I’m looking for help with **low level programming** stuff
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/emmanuel-amoaful-enchill/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joejoenchill" height="30" width="40" /></a>
-<a href="https://twitter.com/amoaful_enchill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="emmanuel" height="30" width="40" /></a>
-</p>
+-  :zap: Fun fact: I am an **AI** enthusiast
 
+- :mailbox: How to reach me: [![Mail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=white)](mzigah4@gmail.com)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
+</div>
 
 <!--
 **Ashdof/Ashdof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
